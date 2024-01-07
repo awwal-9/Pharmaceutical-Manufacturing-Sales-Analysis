@@ -1,7 +1,9 @@
 # Pharmaceutical-Manufacturing-Sales-Analysis
 This project is used to analyze the sales performance of Foresight Pharmaceuticals company with the help of Machine Learning.
+# Acheive 99% accuracy.  
 
-# Introduction:
+# Introduction: 
+# Dataset contain around 250000 records with 18 features.
 💊 **Foresight Pharmaceuticals** is one of the leading Pharmaceutical
    Manufacturing companies with a global presence.
    
@@ -16,14 +18,15 @@ This project is used to analyze the sales performance of Foresight Pharmaceutica
   
 💊 The **dataset contains** sales figures, as well as distributor names, sales channel and sub-channel, sales team, and so on for **years 2017 through to 2020**. Four Years Data present for analysis.
 
-- What is Present in this project ?
+ # What is Present in this project ?
 - Very Good EDA in depth with detail.
 - Data Preprocessing.
 - Assumptions od model check.
-- Model -> Linear Regression with 96.7 % accuracy
+- Model
+        -> Linear Regression with 96.7 % accuracy
 -       -> XGBoost with 99.9 % accuracy.
 -   Comparison between model.
 -   Interpretation.
 
-  Thank You...
+  # Thank You...
 
