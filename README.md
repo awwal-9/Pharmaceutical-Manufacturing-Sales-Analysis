@@ -3,7 +3,7 @@ This project is used to analyze the sales performance of Foresight Pharmaceutica
 # Acheive 99% accuracy.  
 
 # Introduction: 
-# Dataset contain around 250000 records with 18 features.
+- Dataset contain around 250000 records with 18 features.
 💊 **Foresight Pharmaceuticals** is one of the leading Pharmaceutical
    Manufacturing companies with a global presence.
    
