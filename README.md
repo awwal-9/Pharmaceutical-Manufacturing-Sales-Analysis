@@ -16,3 +16,14 @@ This project is used to analyze the sales performance of Foresight Pharmaceutica
   
 💊 The **dataset contains** sales figures, as well as distributor names, sales channel and sub-channel, sales team, and so on for **years 2017 through to 2020**. Four Years Data present for analysis.
 
+- What is Present in this project ?
+- Very Good EDA in depth with detail.
+- Data Preprocessing.
+- Assumptions od model check.
+- Model -> Linear Regression with 96.7 % accuracy
+-       -> XGBoost with 99.9 % accuracy.
+-   Comparison between model.
+-   Interpretation.
+
+  Thank You...
+
